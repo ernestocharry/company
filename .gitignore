@@ -4,3 +4,5 @@
 
 *.pdf
 
+# Files related to jupyter
+*.ipynb_checkpoints
