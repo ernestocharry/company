@@ -1,0 +1,8 @@
+# All from Virtual environment
+*.venv
+*.idea/
+
+*.pdf
+
+# Files related to jupyter
+*.ipynb_checkpoints
